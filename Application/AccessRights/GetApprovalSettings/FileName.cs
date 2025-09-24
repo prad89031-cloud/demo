@@ -3,6 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MediatR;
-hjgy rtgtrhgrhy
-nam
+
+namespace Application.AccessRights.GetApprovalSettings
+{
+    internal class FileName
+    {
+    }
+}
+swswsws
