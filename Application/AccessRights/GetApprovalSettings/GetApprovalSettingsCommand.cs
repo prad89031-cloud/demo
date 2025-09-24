@@ -5,13 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using MediatR;
 
-namespace Application.AccessRights.GetApprovalSettings
-{
-    public class GetApprovalSettingsCommand : IRequest<object>
-    {
-        public int id { get; set; }
-        public int userid { get; set; }
-        public int orgid { get; set; }
+namesp22222222}
         public Int32 branchId { get; set; }
         public Int32 screenid { get; set; }
     }
