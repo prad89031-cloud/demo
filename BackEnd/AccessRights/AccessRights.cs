@@ -9,6 +9,5 @@ namespace BackEnd.AccessRights
     public class AccessRights
     {
         public static string AccessRightsProc = "proc_AccessRights";
-
     }
 }
