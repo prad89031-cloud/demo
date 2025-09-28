@@ -1,7 +1,7 @@
 ﻿using Application.AccessRights.Departmentdropdown;
 using Application.AccessRights.GetAllAccessRights;
 using Application.AccessRights.GetAllbyId;
-using Application.AccessRights.GetApprovalSettings;
+using Application.AccessRights.GetApprovalSettings;21121212121
 using Application.AccessRights.GetMenusDetails;
 using Application.AccessRights.ModuleScreen;
 using Application.AccessRights.Roledropdown;
