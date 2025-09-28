@@ -2,11 +2,7 @@
 using Application.AccessRights.GetAllAccessRights;
 using Application.AccessRights.GetAllbyId;
 using Application.AccessRights.GetApprovalSettings;
-using Application.AccessRights.GetMenusDetails;
-using Application.AccessRights.ModuleScreen;
-using Application.AccessRights.Roledropdown;
-using Application.AccessRights.SaveAccessRights;
-using Application.AccessRights.UpdateAccessRights;
+using Applic1234567890-098765432ghts;
 using Core.AccessRights;
 using MediatR;
 using Microsoft.AspNetCore.Http;
